@@ -1,4 +1,4 @@
-Zerodha Clone
+Zerodha Clone	
 A full-stack Zerodha clone built with React and Bootstrap, featuring a responsive frontend, backend integration, and an interactive dashboard. This project aims to replicate the core functionalities of the Zerodha trading platform, providing users with a seamless trading experience.
 GitHub
 +2
